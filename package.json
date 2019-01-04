@@ -36,5 +36,9 @@
   "jest": {
     "testEnvironment": "node",
     "verbose": true
+  },
+  "prettier": {
+    "singleQuote": true,
+    "trailingComma": "all"
   }
 }
