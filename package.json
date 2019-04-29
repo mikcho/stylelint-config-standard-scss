@@ -1,6 +1,6 @@
 {
   "name": "stylelint-config-standard-scss",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "Standard shareable SCSS config for stylelint",
   "keywords": [
     "stylelint",
